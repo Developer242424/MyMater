@@ -9,7 +9,7 @@ import errorHandler from "./middleware/errorHandler.js"; // Import the error han
 import { initSocket } from "./controllers/chatController.js";
 
 dotenv.config();
-
+// mine
 const app = express();
 const server = http.createServer(app)
 
