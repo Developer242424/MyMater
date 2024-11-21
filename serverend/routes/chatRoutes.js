@@ -6,5 +6,3 @@ const router = express.Router()
 router.route('/').get(open)
 
 export default router
-
-// main
